@@ -85,6 +85,7 @@
 - [Superdesign](https://github.com/superdesigndev/superdesign-skill) - Design skill that builds a design system from your codebase and iterates UI drafts on an infinite canvas.
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
+- [gpuslider](https://github.com/niklasp/gpuslider/tree/main/skills/gpuslider) - Adds image sliders, carousels and galleries with GPU shader transitions (liquid, burn, glitch…), pointer effects and a lightbox, in plain JS, React or Next.js, using the 4.7 KB gpuslider library.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
 
 
